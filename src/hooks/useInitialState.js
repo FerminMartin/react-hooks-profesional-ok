@@ -24,3 +24,5 @@ const useInitialState = () => {
     state,
   };
 };
+
+export default useInitialState;
